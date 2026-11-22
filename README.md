@@ -1,6 +1,6 @@
-# RAVELOARIMANANA Lala Zarasoa — One-Page Developer Portfolio
+# My Portfolio
 
-Personal one-page portfolio built in React.js for **RAVELOARIMANANA Lala Zarasoa** (Full-Stack Developer and AI Engineer), structured with a clear Model-View-Controller (MVC) separation and an owner-only content management workspace.
+Personal one-page portfolio built in React.js (Full-Stack Developer and AI Engineer), structured with a clear Model-View-Controller (MVC) separation and an owner-only content management workspace.
 
 ## Features
 
@@ -27,7 +27,7 @@ Personal one-page portfolio built in React.js for **RAVELOARIMANANA Lala Zarasoa
 
 ```bash
 git clone https://github.com/hari-soa/portfolio-frontend.git
-cd portfolio-lala-zarasoa
+cd portfolio
 npm install
 cp .env.example .env
 ```
